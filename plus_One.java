@@ -48,7 +48,7 @@ class plus_One
 
     public static void main(String s[])
     {
-      /* codes by ---------------------------Parswa-wq---------------------------*/
+      /* <codes by ---------------------------Parswa-wq--------------------------->*/
         Scanner input=new Scanner(System.in);
         plus_One obj=new plus_One();
 
