@@ -1,5 +1,5 @@
 import java.util.*;
-class test 
+class roman_to_integer 
 {
     public int romanToInt(String s) 
   {
@@ -153,7 +153,7 @@ class test
   public static void main(String s[])
   { 
     Scanner input=new Scanner(System.in);
-    test obj=new test();
+    roman_to_integer obj=new roman_to_integer();
 
     String string;
 
