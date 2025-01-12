@@ -4,7 +4,6 @@ Welcome to the "Learn Some Basics" repository! This project is dedicated to help
 
 ## What You'll Find Here:
 - **Basic Java Programming Concepts**: Explore the essentials of Java, including variables, loops, conditionals, methods, and classes.
-- **Data Structures in Java**: Understand common data structures such as arrays, lists, stacks, queues, and more.
 - **Algorithms in Java**: Learn and implement core algorithms like sorting, searching, and recursion in Java.
 - **LeetCode Logical Problems**: This repository also contains Java solutions to various logical problems from LeetCode, focusing on algorithmic thinking, problem-solving, and interview-style questions.
 
